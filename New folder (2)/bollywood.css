@@ -1,0 +1,33 @@
+.container{
+    max-width: 2000px;
+    margin: auto;
+    background: cyan;
+    overflow: auto;
+}
+.gallery{
+    margin: 5px;
+    border: 5px solid;
+    float: left;
+    width: 750px;
+}
+.gallery img{
+    width: 100%;
+    height: auto;
+}
+.gallery img{
+    width: fit-content;
+    height: auto;
+}
+.desc{
+    padding: 15px;
+    text-align: center;
+}
+.desc a{
+    color: rgb(237, 100, 168);
+    text-decoration: none;
+    font-size: 40px;    
+}
+body{
+    margin: 0;
+    background: cornsilk;
+}
